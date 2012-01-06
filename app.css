@@ -1,0 +1,33 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: Helvetica, Verdana;
+}
+
+#main{
+  width: 750px;
+  margin: 0 auto;
+}
+
+#addlinks{
+  width: 200px;
+  margin: 0px 0px 0px 100px;
+}
+
+#addlinkform{
+  display: none;
+}
+
+.form{
+  margin: 0px 0px 0px 50px;
+  font-size: 25px;
+}
+
+.form input{
+  position: relative;
+  left: 20px;
+  height: 30px;
+  line-height: 25px;
+  font-size: 25px;
+  width: 300px;
+}
